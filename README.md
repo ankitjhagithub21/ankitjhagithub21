@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitjhagithub21
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning BCA.
+- 🌱 I’m currently learning react.
 
 <!---
 ankitjhagithub21/ankitjhagithub21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
