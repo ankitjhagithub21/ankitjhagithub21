@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Mern Stack.  
   
 
-- 👨‍💻 All of my projects are available [here.](https://github.com/ankitjhagithub21)  
+- 👨‍💻 All of my projects are available [here.](https://ankitjha.vercel.app/projects)  
   
 
 - ❓ Ask me about anything related to Web Devlopement.  
