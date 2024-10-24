@@ -1,19 +1,16 @@
 
   
 
-- 👋 Hi, I’m Ankit Jha.
-  
+👋 Hi, I’m Ankit Jha
+🚀 I’m a developer and freelancer specializing in MERN stack applications.
 
-- 🌱 I’m currently learning Mern Stack.  
-  
+🌱 Currently enhancing my skills with real-world projects and exploring advanced concepts in full-stack development.
 
-- 👨‍💻 All of my projects are available [here.](https://ankitjha.vercel.app/projects)  
-  
+👨‍💻 You can find all of my work and projects here https://ankitjha.vercel.app.
 
-- ❓ Ask me about anything related to Web Devlopement.  
-  
+💬 Feel free to ask me anything related to web development—I’m always up for tech discussions.
 
-- 📫 How to reach me **jhatnb@gmail.com**  
+📫 You can reach me anytime at jhatnb@gmail.com.
   
 
 <br/> 
