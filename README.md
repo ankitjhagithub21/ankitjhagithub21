@@ -6,11 +6,11 @@
 
 🌱 Currently enhancing my skills with real-world projects and exploring advanced concepts in full-stack development.
 
-👨‍💻 You can find all of my work and projects here https://ankitjha.vercel.app.
+👨‍💻 You can find all of my work and projects here https://ankitjha.vercel.app/projects.
 
 💬 Feel free to ask me anything related to web development—I’m always up for tech discussions.
 
-📫 You can reach me anytime at jhatnb@gmail.com.
+📫 You can reach me anytime at ankitjhamca@gmail.com
   
 
 <br/> 
